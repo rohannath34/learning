@@ -1,0 +1,208 @@
+.all_change{
+    display: flow-root;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+#single_div{
+
+    font-family: monospace;
+    font-size: xx-large;
+    font-style: italic;
+    /* text-decoration: overline; */
+}
+.second_div2{
+    position: relative;
+    top: 207px;
+    display: inline-block;
+    margin: 7px;
+    left: 645px;
+}
+
+.a{
+    border-radius: 23%;
+    padding: 37px 24px 38px 29px;
+    border: solid 3px black;
+    background-image: url('images/tom1.png');
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.a:hover{
+    background-color: #1a1f1e;
+}
+.b{
+    border-radius: 23%;
+    padding: 37px 24px 38px 29px;
+    border: solid 3px black;
+    background-image: url("images/tom2.png");
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.b:hover{
+    background-color: #1a1f1e;
+}
+.c{
+    border-radius: 23%;
+    padding: 37px 24px 38px 29px;
+    border: solid 3px black;
+    background-image:url("images/tom3.png") ;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.c:hover{
+    background-color: #c21414;
+}
+.d{
+    border-radius: 23%;
+    padding: 37px 24px 38px 29px;
+    border: solid 3px black;
+    background-image: url("images/tom4.png");
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.d:hover{
+    background-color: #1a1f1e;
+}
+.e{
+    border-radius: 23%;
+    padding: 37px 24px 38px 29px;
+    border: solid 3px black;
+    background-image: url("images/snare.png");
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.e:hover{
+    background-color: #1a1f1e;
+}
+.f{
+    border-radius: 23%;
+    padding: 37px 24px 38px 29px;
+    border: solid 3px black;
+    background-image: url("images/kick.png");
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.f:hover{
+    background-color: #1a1f1e;
+}
+.g{
+    border-radius: 23%;
+    padding: 37px 24px 38px 29px;
+    border: solid 3px black;
+    background-image: url("images/crash.png");
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.g:hover{
+    background-color: #1a1f1e;
+}
+.oneHead{
+    text-align: center;
+    position: relative;
+    top: 90px;
+}
+.pressed{
+    box-shadow: 0 3px 0 4px #432;
+    opacity: 0.5;
+}
+.desPress{
+    box-shadow: 0 3px 0 8px #c21414;
+    
+}
+.third{
+    padding: 0;
+    width: 33px;
+    height: 44px;
+    margin-inline: auto;
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    position: relative;
+    top: 322px;
+    right: 277px;
+}
+.me1{
+    padding: 30px;
+    border: solid 4px gray;
+        font-size: 20px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.me2{
+    padding: 30px;
+    border: solid 4px gray;
+        font-size: 20px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.me3{
+    padding: 30px;
+    border: solid 4px gray;
+        font-size: 20px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.me4{
+    padding: 30px;
+    border: solid 4px gray;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: bold;
+
+}
+.me5{
+    padding: 30px;
+    border: solid 4px gray;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.me6{
+    padding: 30px;
+    border: solid 4px gray;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.me7{
+    padding: 30px;
+    border: solid 4px gray;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.mars{
+    box-shadow: 0 4px 5px 0 #5a4a;
+    opacity: 0.6;
+}
+
+.bulb_off{
+    width: 200px;
+    height: 200px;
+}
+.w{
+    width: 91px;
+    height: 30px;
+    background: green;
+    padding: 14px 113px 48px 29px;
+    font-size: 30px;
+    position: relative;
+    left: 27px;
+    top: 40px;
+}
+/* .w:hover{
+    background-color: #645;
+} */
+.insta7{
+    box-shadow: 0 5px 4px 0 #645;
+    opacity: 0.5;
+}
